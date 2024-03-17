@@ -1,0 +1,84 @@
+#uvw
+ {
+  color: white;
+  background-color: black;
+  padding: 10px;
+  display: flex;
+  align-items: center; 
+}
+
+a 
+{
+  margin-right: 75px;
+  text-decoration: none;
+  color: white;
+}
+
+body
+ {
+  background-image: url("car.png");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 1600px 500px;
+  margin:0;
+  position: relative; 
+  padding-bottom: 40px;
+
+}
+
+#def 
+{
+ 
+  margin-right: 20px;
+
+}
+li
+{
+margin-bottom:4px;
+}
+ul
+{
+ position: fixed;
+  bottom: 60px;
+  left: 10px;
+   margin: 0;
+  padding: 010px;
+ 
+  list-style: none;
+
+}
+#asd
+{
+position:fixed;
+bottom:100px;
+left:500px;
+margin:0;
+padding:10px;
+}
+#pqr{
+margin-left:1000px;
+}
+#dfg
+{
+position:fixed;
+left:30px;
+
+}
+#cbn
+{
+position:fixed;
+bottom:400px;
+left:700px;
+font-size:40px;
+color:white;
+}
+#s
+{
+	position:fixed;
+bottom:100px;
+left:400px;
+margin:0;
+padding:10px;
+font-size:20px;
+font-family: "Lucida Console", "Courier New", monospace;
+}
